@@ -1,0 +1,6 @@
+fastapi>=0.115,<1.0
+pydantic==2.14.1
+uvicorn>=0.34,<1.0
+pytest>=8.3,<9.0
+httpx>=0.28,<0.29
+fropti-core-contracts @ git+https://github.com/VictoriaPugach/recipe-video-extraction-pipeline.git@f8df5d6#subdirectory=packages/fropti-core-contracts

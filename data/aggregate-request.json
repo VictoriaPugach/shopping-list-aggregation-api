@@ -1,0 +1,16 @@
+{
+  "recipes": [
+    {
+      "schema_version": "1.0.0",
+      "title": "Омлет",
+      "servings": 1,
+      "ingredients": [
+        {"name": "Яйца", "quantity": {"value": 2, "unit": "pcs"}, "note": null},
+        {"name": "Соль", "quantity": null, "note": "По вкусу"}
+      ],
+      "steps": [{"instruction": "Взбейте яйца.", "duration_seconds": null}],
+      "source": {"type": "manual"},
+      "total_time_minutes": null
+    }
+  ]
+}
